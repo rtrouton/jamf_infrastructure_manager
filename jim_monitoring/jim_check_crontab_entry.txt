@@ -1,0 +1,2 @@
+## Check JIM service every ten minutes to make sure it's running and restart it if it isn't.
+*/10 * * * * /usr/local/bin/jim_check.sh 2>&1
