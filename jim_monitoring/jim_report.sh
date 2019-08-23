@@ -26,7 +26,7 @@ jim_port=8636
 # to this:
 # slack_webhook="https://hooks.slack.com/services/XXXXXXXXX/YYYYYYYYY/ZZZZZZZZZZ" 
 
-slack_webhook="https://hooks.slack.com/services/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"
+slack_webhook=""
 
 # That should be it for the necessary configuration part. The rest can be pretty much as-is
 # if your Jamf Infrastructure Manager is running on Linux.
